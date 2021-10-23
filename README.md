@@ -79,4 +79,4 @@ Increasing the number of hidden layers to include a 3rd
 Changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer
 
 3. Summary: 
-- The analysis and deep learning model results, although not achieving the target 75% accuracy, could be altered by changing any numbers of items, such as the features or epochs, which could solve this classification and result in better accuracy.
+The analysis and deep learning model results, although not achieving the target 75% accuracy, could be altered by changing any numbers of items, such as the features or epochs, which could solve this classification and result in better accuracy.
