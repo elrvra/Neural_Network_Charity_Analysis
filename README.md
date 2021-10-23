@@ -78,5 +78,5 @@ Increasing the number of hidden layers to include a 3rd
 - What steps did you take to try and increase model performance?
 Changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer
 
-3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+3. Summary: 
 - The analysis and deep learning model results, although not achieving the target 75% accuracy, could be altered by changing any numbers of items, such as the features or epochs, which could solve this classification and result in better accuracy.
