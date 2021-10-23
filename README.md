@@ -35,7 +35,7 @@ IS_SUCCESSFUL—Was the money used effectively
 - Optimize 2nd round
 ![alt tag](https://github.com/elrvra/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Deliverable3-2.png)
 
--Optimize 3rd round
+- Optimize 3rd round
 ![alt tag](https://github.com/elrvra/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Deliverable3-3.png)
 
 - Deliverable 4: A Written Report on the Neural Network Model (README.md)
