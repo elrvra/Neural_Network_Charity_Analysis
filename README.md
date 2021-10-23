@@ -45,11 +45,11 @@ A nueral network is a powerful machine learning technique that is modeled after 
 
 2. Results: 
 
-- Data Preprocessing
-a. What variable(s) are considered the target(s) for your model?
+Data Preprocessing
+-  What variable(s) are considered the target(s) for your model?
 IS_SUCCESSFUL
 
-b. What variable(s) are considered to be the features for your model?
+-  What variable(s) are considered to be the features for your model?
 ORGANIZATION
 STATUS
 INCOME_AMT
@@ -60,22 +60,22 @@ AFFILIATION
 CLASSIFICATION
 USE_CASE
 
-c. What variable(s) are neither targets nor features, and should be removed from the input data?
+-  What variable(s) are neither targets nor features, and should be removed from the input data?
 NAME
 EIN
 
-- Compiling, Training, and Evaluating the Model
-a. How many neurons, layers, and activation functions did you select for your neural network model?
+Compiling, Training, and Evaluating the Model
+- How many neurons, layers, and activation functions did you select for your neural network model?
 number_input_features = 43
 hidden_nodes_layer1 = 80
 hidden_nodes_layer2 = 30
 #hidden_nodes_layer3 = 10
 
-b. Were you able to achieve the target model performance?
+- Were you able to achieve the target model performance?
 Increasing the number of hidden nodes in layer 1 (3 X number of input features)
 Increasing the number of hidden layers to include a 3rd
 
-c. What steps did you take to try and increase model performance?
+- What steps did you take to try and increase model performance?
 Changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer
 
 3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
