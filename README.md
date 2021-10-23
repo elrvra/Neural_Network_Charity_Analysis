@@ -38,4 +38,45 @@ IS_SUCCESSFUL—Was the money used effectively
 - Optimize 3rd round
 ![alt tag](https://github.com/elrvra/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Deliverable3-3.png)
 
-- Deliverable 4: A Written Report on the Neural Network Model (README.md)
+### Deliverable 4: A Written Report on the Neural Network Model (README.md)
+
+1. Overview: Explain the purpose of the analysis.
+A nueral network is a powerful machine learning technique that is modeled after neurons in the brain. Neural networks can rival the performance of the robust statistical algorithims without having to worry about any statistical theory. Because of this neural networks are one of the most in demand skills for any data scientist. In this analysis, it is disovered how neural networks are designed and the neural network effectiveness. With neural networks, we can combine the performance of multiple statistical and machine learning models with minimal effort. In sum, the purpose is to learn how to design, train, evaluate, and export neural networks to use in any scenario.
+
+2. Results: 
+
+- Data Preprocessing
+a. What variable(s) are considered the target(s) for your model?
+IS_SUCCESSFUL
+
+b. What variable(s) are considered to be the features for your model?
+ORGANIZATION
+STATUS
+INCOME_AMT
+SPECIAL_CONSIDERATIONS
+ASK_AMT
+APPLICATION_TYPE
+AFFILIATION
+CLASSIFICATION
+USE_CASE
+
+c. What variable(s) are neither targets nor features, and should be removed from the input data?
+NAME
+EIN
+
+- Compiling, Training, and Evaluating the Model
+a. How many neurons, layers, and activation functions did you select for your neural network model?
+number_input_features = 43
+hidden_nodes_layer1 = 80
+hidden_nodes_layer2 = 30
+#hidden_nodes_layer3 = 10
+
+b. Were you able to achieve the target model performance?
+Increasing the number of hidden nodes in layer 1 (3 X number of input features)
+Increasing the number of hidden layers to include a 3rd
+
+c. What steps did you take to try and increase model performance?
+Changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer
+
+3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+- The analysis and deep learning model results, although not achieving the target 75% accuracy, could be altered by changing any numbers of items, such as the features or epochs, which could solve this classification and result in better accuracy.
