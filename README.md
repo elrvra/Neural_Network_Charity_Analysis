@@ -25,7 +25,7 @@ IS_SUCCESSFUL—Was the money used effectively
 ![alt tag](https://github.com/elrvra/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Deliverable1-2.png)
 
 ### Deliverable 2: Compile, Train, and Evaluate the Model
-![alt tag](![alt tag](https://github.com/elrvra/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Deliverable2.png)
+![alt tag](https://github.com/elrvra/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Deliverable2.png)
 ![alt tag](https://github.com/elrvra/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Deliverable2-2.png)
 
 ### Deliverable 3: Optimize the Model
